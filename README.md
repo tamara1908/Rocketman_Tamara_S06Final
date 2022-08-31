@@ -1,13 +1,11 @@
-## 
+![sprint 06](https://user-images.githubusercontent.com/102266911/187574450-c2cdde41-d8d0-462e-8fd8-ca0de1deeebd.png)
 
-### 🚀Rocketman_Tamara_S06Final
 
-#### SPRINT 6 - Projeto Final
-*Olá pessoal!* 
+*Olá, sejam todos muito bem vindos!* 
 
-Este repositório foi criado para que eu possa  subir o Projeto Final juntamente com os testes e etc .
+Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
 
-### 🖥️ Técnologias utilizadas 
+### 🖥️ Técnologias utilizadas foram:
  * Sistema GIT para versionamento de arquivos.
  * Plataforma e ferramentas GitHub.
  * Visual Studio Code.
@@ -17,7 +15,7 @@ Este repositório foi criado para que eu possa  subir o Projeto Final juntamente
  
 
 ## Direitos Autorais: 
-### COMPASS.UOL🎯 
+![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
 
 ### Autor: 
 Tamara Gleice - Entrega inicial - 
@@ -32,5 +30,5 @@ Tamara Gleice - Entrega inicial -
 
 ## Sites utilizados como referência:
 
-* **Materiais Didáticos e Vídeos disponibilizados pela Compass**
+* **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
 
