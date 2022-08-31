@@ -1,17 +1,19 @@
 ![sprint 06](https://user-images.githubusercontent.com/102266911/187574450-c2cdde41-d8d0-462e-8fd8-ca0de1deeebd.png)
 
-
 *Olá, sejam todos muito bem vindos!* 
 
 Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
 
-### 🖥️ Técnologias utilizadas foram:
- * Sistema GIT para versionamento de arquivos.
- * Plataforma e ferramentas GitHub.
- * Visual Studio Code.
- * Linguagem de programação Javascript.
- * Postman para testes
- * Newman 
+### 🖥️ Técnologias utilizadas:
+![logos1](https://user-images.githubusercontent.com/102266911/187693409-e5ce6ad8-e206-4f70-8a8d-4d97e0eb1131.png)
+ * Sistema GITBASH para versionamento de arquivos;
+ * Plataforma e ferramentas GitHub;
+ * Visual Studio Code;
+ * Postman para testes;
+ * Newman;
+ * Xmind para realizar o mapa mental;
+ * Canva para desenvolver o plano de testes e as animações;
+ * Terminal Windows PowerShell;
  
 
 ## Direitos Autorais: 
