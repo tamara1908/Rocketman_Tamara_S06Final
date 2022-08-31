@@ -1,7 +1,7 @@
-![sprint 06 sf](https://user-images.githubusercontent.com/102266911/187699538-be961390-0ae5-46b0-985d-376893926e50.png)
-
-
-
+<div align="center"> 
+  <img align="center" alt="sprint 06 sf" height="500" style="border-radius:500px;" src="https://user-images.githubusercontent.com/102266911/187699538-be961390-0ae5-46b0-985d-376893926e50.png">  
+ </div>
+    
 *Olá, sejam todos muito bem vindos(as)!* 
 
 Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
@@ -37,4 +37,8 @@ Tamara Gleice - Entrega inicial -
 * **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
 * **Padronizando as Issues: https://www.youtube.com/watch?v=CMzOM2VyNLw**
 
-     ![rocktin sf](https://user-images.githubusercontent.com/102266911/187702197-5742f89b-5d2c-4ee3-a962-314cd6534c10.png)
+<div align="right"> 
+  <img align="right" alt="rocktin sf" height="250" style="border-radius:250px;" src="https://user-images.githubusercontent.com/102266911/187702197-5742f89b-5d2c-4ee3-a962-314cd6534c10.png">  
+ <div>
+   
+ <br>  
