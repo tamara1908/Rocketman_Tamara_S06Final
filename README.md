@@ -31,7 +31,7 @@ Tamara Gleice - Entrega inicial -
 * ### Matheus Locatelli (Scrum Master)
 * ### E a TODA Turma 04!.
 
-## Sites utilizados como referência:
-
+## Referências:
+* **Algumas inspirações adquiri com a turma 04;**
 * **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
-
+* **Padronizando as Issues: https://www.youtube.com/watch?v=CMzOM2VyNLw**
