@@ -1,6 +1,7 @@
-![sprint 06](https://user-images.githubusercontent.com/102266911/187574450-c2cdde41-d8d0-462e-8fd8-ca0de1deeebd.png)
+![sprint 06 sf](https://user-images.githubusercontent.com/102266911/187699538-be961390-0ae5-46b0-985d-376893926e50.png)
 
-*Olá, sejam todos muito bem vindos!* 
+
+*Olá, sejam todos muito bem vindos(as)!* 
 
 Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
 
