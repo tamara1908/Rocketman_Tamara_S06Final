@@ -11,11 +11,11 @@
   <img align="center" alt="sprint 06 sf" height="500" style="border-radius:500px;" src="https://user-images.githubusercontent.com/102266911/187699538-be961390-0ae5-46b0-985d-376893926e50.png">  
  </div>
     
-*Olá, sejam todos muito bem vindos(as)!* 
+<b><h2 align="center">Olá, sejam todos muito bem vindos(as)!</h2></b>
 
-Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
+<b><h3 align="center">Este repositório foi criado para que seja desenvolvido o Projeto Final, a sprint 06.</h2></b>
 
-### 🖥️ Ferramentas utilizadas:
+<b><h2 align="left">🖥️ Ferramentas utilizadas:</h2></b>
 ![logos1](https://user-images.githubusercontent.com/102266911/187693409-e5ce6ad8-e206-4f70-8a8d-4d97e0eb1131.png)
  * Sistema GITBASH para versionamento de arquivos;
  * Plataforma e ferramentas GitHub;
@@ -25,6 +25,24 @@ Este repositório foi criado para que eu possa desenvolver a sprint 06, ela ser�
  * Xmind para realizar o mapa mental;
  * Canva para desenvolver o plano de testes e as animações;
  * Terminal Windows PowerShell; 
+ 
+ <b><h2 align="left">Ambientes disponíveis</h2></b>
+
+<table align="left">
+  <tr>
+    <td align="left">Online em serverest.dev<br/><a href="#online"><img alt="Texto serverest.dev" src="https://user-images.githubusercontent.com/29241659/97096352-49b1b380-1641-11eb-9b0a-5bb72e1b3882.png" height="80"></a></td>
+    <td align="left">Local com NPM<br/><br/><a href="#localmente-com-npm"><img alt="Logo do NPM" src="https://user-images.githubusercontent.com/29241659/97096283-4bc74280-1640-11eb-920a-1c145b0c39d4.png" height="60"></a></td>
+  </tr>
+</table>
+
+<p align="left">
+ <img alt="Print do ServeRest iniciado no terminal" src="https://user-images.githubusercontent.com/29241659/97097145-fa24b500-164b-11eb-9a1f-f9cae275ec98.png" height="124">
+</p>
+
+## Consumindo o ServeRest
+
+O ServeRest está disponível de forma [online](https://serverest.dev), no [npm](https://www.npmjs.com/package/serverest) e no [docker](https://hub.docker.com/r/paulogoncalvesbh/serverest/).
+ 
 
 ## Direitos Autorais: 
 ![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
