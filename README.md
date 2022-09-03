@@ -11,7 +11,7 @@
   <img align="center" alt="sprint 06 sf" height="500" style="border-radius:500px;" src="https://user-images.githubusercontent.com/102266911/187699538-be961390-0ae5-46b0-985d-376893926e50.png">  
  </div>
     
-<b><h2 align="center">Olá, sejam todos muito bem vindos(as)!</h2></b>
+<b><h2 align="center">☺️ Olá, sejam todos muito bem vindos(as)!</h2></b>
 
 <b><h3 align="center">Este repositório foi criado para que seja desenvolvido o Projeto Final, a sprint 06.</h2></b>
 
@@ -24,9 +24,45 @@
  * Newman;
  * Xmind para realizar o mapa mental;
  * Canva para desenvolver o plano de testes e as animações;
- * Terminal Windows PowerShell; 
  
- <b><h2 align="left">Ambientes disponíveis</h2></b>
+<b><h2 align="left">🔗 Clonar este repositório:</h2></b>
+1. No seu perfil do Github, navegue até a página principal deste <b> <a href="https://github.com/tamara1908/Rocketman_Tamara_S06Final">Repositório</a>  </b>
+2. Ao lado(direito) de Adicionar Ficheiro, clique no botão verde com nome de código.
+
+![image](https://user-images.githubusercontent.com/102266911/188284699-4fc48d45-282d-4f37-8d2d-464626a726fb.png)
+
+3. Copie a URL para o repositório.
+Para clonar o repositório usando HTTPS, em "HTTPS", clique no quadradinho de copia ao lado da URL, como descrito na imagem abaixo:
+
+ ![image](https://user-images.githubusercontent.com/102266911/188284806-371bac2c-4d55-414a-88fe-c1a6ac6275ce.png)
+
+4. Abra o Git Bash.
+
+5. Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
+
+6. Digite git clone (clonar git) e cole a URL que você copiou anteriormente.
+```sh
+$ git clone https://github.com/tamara1908/Rocketman_Tamara_S06Final#readme
+Pressione Enter para criar seu clone local.
+```
+```sh
+$ git clone https://github.com/tamara1908/Rocketman_Tamara_S06Final#readme
+> Cloning into `Spoon-Knife`...
+> remote: Contando objetos: 10, concluído.
+> remote: Compactando objetos: 100% (8/8), concluído.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+<b><h2 align="left">😵‍💫 Solucionar problemas de erros de clonagem:</h2></b>
+Ao clonar um repositório, é possível que você encontre alguns erros.
+
+**Se você não conseguir clonar um repositório, verifique se:**
+* Você consegue conectar-se usando HTTPS. 
+* Para obter mais informações, consulte <b> <a href="https://docs.github.com/pt/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors">"Erros de clonagem por meio de HTTPS".</a>  </b>
+ 
+ 
+ <b><h2 align="left">🌵 Ambientes disponíveis :</h2></b>
 
 <table align="left">
   <tr>
@@ -39,7 +75,7 @@
  <img alt="Print do ServeRest iniciado no terminal" src="https://user-images.githubusercontent.com/29241659/97097145-fa24b500-164b-11eb-9a1f-f9cae275ec98.png" height="124">
 </p>
 
-## Consumindo o ServeRest
+## 📄Consumindo o ServeRest:
 
 O ServeRest está disponível de forma [online](https://serverest.dev), no [npm](https://www.npmjs.com/package/serverest) e no [docker](https://hub.docker.com/r/paulogoncalvesbh/serverest/).
 
@@ -49,7 +85,7 @@ No ambiente online os dados cadastrados são removidos **diariamente**, enquanto
 
 > Prefira a opção de ambiente local caso precise que os dados não sejam alterados por outro usuário.
 
-### Online
+### 🟢 Online:
 
 Acesse **<https://serverest.dev>** para visualizar a documentação e as rotas disponíveis.
 
@@ -61,12 +97,10 @@ O ServeRest online possui monitoramento constante do status e tempo de atividade
 Execute o seguinte comando no terminal:
 
 ```sh
-npx serverest@latest
+npx serverest
 ```
 
-<details><summary><i>Abra para ver detalhes de configuração do ServeRest com NPM</i></summary>
-
-## Configuração
+## ⚙️ Configuração
 
 Para visualizar as configurações que são possíveis de serem feitas execute o comando:
 
@@ -97,51 +131,22 @@ Utilize esse comportamento nos seus testes, validando a presença/ausência dess
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Direitos Autorais: 
+## 🎯Direitos Autorais: 
 ![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
 
-### Autor: 
-Tamara Gleice - Entrega inicial - 
+### 👩🏿‍💻 Autor: 
+Tamara Gleice
 
-#### Link para raiz do projeto: 
-<p align="left">
- <b>
-   <a href="https://github.com/tamara1908/Rocketman_Tamara_S06Final">Raiz do Projeto</a>
- </b>
-</p> 
-
-## Créditos: 
+## 📌Créditos: 
 
 ### Agradecimento as pessoas que me apoiaram no projeto: 
-* ### Matheus Locatelli (Scrum Master)
-* ### E a TODA Turma 04!.
+* ### Matheus Locatelli (Scrum Master) a TODA Turma 04!.
    
-## Referências:
-* **Algumas inspirações adquiri com a turma 04;**
+## ✉️ Referências:
+* **Algumas inspirações adquiri com a turma, especificamente com Amanda Cristina, Renan Rocha e a Cleonice Alves, com sugestões no plsno de testes, compartilhamos bases de códigos e uma dose de motivação todos os dias**
 * **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
 <p align="left">
  <b>
    <a href="https://www.youtube.com/watch?v=CMzOM2VyNLw">Padronizando Issues</a>
  </b>
 </p> 
-
-
-
-
-
-
