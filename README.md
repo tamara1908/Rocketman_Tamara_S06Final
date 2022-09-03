@@ -42,7 +42,75 @@
 ## Consumindo o ServeRest
 
 O ServeRest está disponível de forma [online](https://serverest.dev), no [npm](https://www.npmjs.com/package/serverest) e no [docker](https://hub.docker.com/r/paulogoncalvesbh/serverest/).
- 
+
+Todas essas opções possuem as mesmas rotas, regras, dados pré-cadastrados e documentação.
+
+No ambiente online os dados cadastrados são removidos **diariamente**, enquanto que no local basta reiniciar o ServeRest.
+
+> Prefira a opção de ambiente local caso precise que os dados não sejam alterados por outro usuário.
+
+### Online
+
+Acesse **<https://serverest.dev>** para visualizar a documentação e as rotas disponíveis.
+
+> Essa é a melhor opção para quem não possui NPM e Docker na máquina ou não quer preocupar em gerenciar ambiente.
+
+O ServeRest online possui monitoramento constante do status e tempo de atividade para garantir que esteja sempre disponível.
+### Localmente com NPM
+
+Execute o seguinte comando no terminal:
+
+```sh
+npx serverest@latest
+```
+
+<details><summary><i>Abra para ver detalhes de configuração do ServeRest com NPM</i></summary>
+
+## Configuração
+
+Para visualizar as configurações que são possíveis de serem feitas execute o comando:
+
+```sh
+npx serverest -h
+```
+
+![Informação de opções e exemplos fornecidos no terminal](https://user-images.githubusercontent.com/29241659/84348644-d45eae00-ab8b-11ea-89a4-d8cda3b32b74.png)
+
+#### Segurança (`--nosec`)
+
+Por default, o _ServeRest_ irá fazer as seguintes alterações no cabeçalho, que podem ser desabilitadas com `npx serverest --nosec`:
+
+**Cabeçalhos adicionados:**
+- `Strict-Transport-Security: max-age=15552000; includeSubDomains`
+- `X-Content-Type-Options: nosniff`
+- `X-DNS-Prefetch-Control: off`
+- `X-Download-Options: noopen`
+- `X-Frame-Options: SAMEORIGIN`
+- `X-XSS-Protection: 1; mode=block`
+
+**Cabeçalho removido:**
+- `X-Powered-By: Express`
+
+Utilize esse comportamento nos seus testes, validando a presença/ausência desses cabeçalhos.
+
+> Para saber mais leia o [checklist de segurança de API](https://github.com/shieldfy/API-Security-Checklist#api-security-checklist)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Direitos Autorais: 
 ![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
