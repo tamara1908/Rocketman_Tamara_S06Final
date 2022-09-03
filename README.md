@@ -1,9 +1,9 @@
  ARRUMAR
  <p align="center">
  <b>
-   <a href="https://github.com/ServeRest/ServeRest/blob/trunk/.github/CODE_OF_CONDUCT.md">Plano de testes</a> |
-   <a href="https://github.com/ServeRest/ServeRest/blob/trunk/.github/CONTRIBUTING.md">Mapa Mental Completo</a> |
-   <a href="https://github.com/ServeRest/ServeRest/blob/trunk/CHANGELOG.md">Lista de casos de teste</a> |
+   <a href="https://www.canva.com/design/DAFG4psALec/aor6IQ209bu4kQg7rgEqoQ/view?utm_content=DAFG4psALec&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">Plano de testes</a> |
+   <a href="https://www.canva.com/design/DAFLI2vUmDc/-OVp_0-yoz1fB1t8xG-vtg/view?utm_content=DAFLI2vUmDc&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">Mapa Mental Completo</a> |
+   <a href="https://www.canva.com/design/DAFK6q65orM/s4MEUz1kCaDvcJu4V38ZUw/view?utm_content=DAFK6q65orM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">Lista de casos de teste</a> |
  </b>
 </p> 
 
