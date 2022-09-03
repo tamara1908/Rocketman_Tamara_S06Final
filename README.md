@@ -32,8 +32,13 @@ Este repositório foi criado para que eu possa desenvolver a sprint 06, ela ser�
 
 ### Autor: 
 Tamara Gleice - Entrega inicial - 
-##### Link para raiz do projeto:  
-**https://github.com/tamara1908/Rocketman_Tamara_S06Final**
+
+#### Link para raiz do projeto: 
+<p align="left">
+ <b>
+   <a href="https://github.com/tamara1908/Rocketman_Tamara_S06Final">Raiz do Projeto</a>
+ </b>
+</p> 
 
 ## Créditos: 
 
