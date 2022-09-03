@@ -145,8 +145,5 @@ Tamara Gleice
 ## ✉️ Referências:
 * **Algumas inspirações adquiri com a turma, especificamente com Amanda Cristina, Renan Rocha e a Cleonice Alves, com sugestões no plsno de testes, compartilhamos bases de códigos e uma dose de motivação todos os dias**
 * **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
-<p align="left">
- <b>
-   <a href="https://www.youtube.com/watch?v=CMzOM2VyNLw">Padronizando Issues</a>
- </b>
-</p> 
+* **Vídeo ensinando a <b><a href="https://www.youtube.com/watch?v=CMzOM2VyNLw">Padronizar Issues</a></b>**
+
