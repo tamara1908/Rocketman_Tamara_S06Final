@@ -15,7 +15,7 @@
 
 Este repositório foi criado para que eu possa desenvolver a sprint 06, ela será o Projeto Final da nossa equipe.
 
-### 🖥️ Tecnologias utilizadas:
+### 🖥️ Ferramentas utilizadas:
 ![logos1](https://user-images.githubusercontent.com/102266911/187693409-e5ce6ad8-e206-4f70-8a8d-4d97e0eb1131.png)
  * Sistema GITBASH para versionamento de arquivos;
  * Plataforma e ferramentas GitHub;
