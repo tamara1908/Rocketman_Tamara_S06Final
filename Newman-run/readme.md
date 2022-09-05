@@ -7,6 +7,24 @@
  * Visual Studio Code;
  * Canva para desenvolver o plano de testes e as animações;
 
+## 📄Consumindo o ServeRest:
+
+O ServeRest está disponível de forma [online](https://serverest.dev), no [npm](https://www.npmjs.com/package/serverest) e no [docker](https://hub.docker.com/r/paulogoncalvesbh/serverest/).
+
+#### Todas essas opções possuem as mesmas rotas, regras, dados pré-cadastrados e documentação.
+
+### Vai depender de você qual escolher, mas se quiser deixar sempre salva aconselho utilizar no npm localmente;
+
+### Localmente com NPM
+
+Execute o seguinte comando no terminal:
+
+```sh
+npx serverest
+```
+![image](https://user-images.githubusercontent.com/102266911/188472442-6825739c-110b-43de-83cc-2cc825e722fe.png)
+
+
  ## 🎯Direitos Autorais: 
 ![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
 
