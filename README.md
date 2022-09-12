@@ -136,7 +136,7 @@ Utilize esse comportamento nos seus testes, validando a presença/ausência dess
 
 ### 👩🏿‍💻 Autor: 
 
-<b><a href="https://github.com/tamara1908">Tamara Gleice</a></b>**
+**<b><a href="https://github.com/tamara1908">Tamara Gleice</a></b>**
 
 ## 📌Créditos: 
 
