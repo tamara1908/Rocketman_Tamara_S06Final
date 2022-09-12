@@ -135,7 +135,8 @@ Utilize esse comportamento nos seus testes, validando a presença/ausência dess
 ![sprint6logo](https://user-images.githubusercontent.com/102266911/187577955-e6493788-912f-4c67-89ad-7fb77b180867.png)
 
 ### 👩🏿‍💻 Autor: 
-Tamara Gleice
+
+<b><a href="https://github.com/tamara1908">Tamara Gleice</a></b>**
 
 ## 📌Créditos: 
 
@@ -143,7 +144,7 @@ Tamara Gleice
 * ### Matheus Locatelli (Scrum Master) a TODA Turma 04!.
    
 ## ✉️ Referências:
-* **Algumas inspirações adquiri com a turma, especificamente com Amanda Cristina, Renan Rocha e a Cleonice Alves, com sugestões no plsno de testes, compartilhamos bases de códigos e uma dose de motivação todos os dias**
+* **Algumas inspirações adquiri com a turma, especificamente com Amanda Cristina, Renan Rocha e a Cleonice Alves, com sugestões no plano de testes, compartilhamos bases de códigos e uma dose de motivação todos os dias**
 * **Materiais Didáticos e Vídeos disponibilizados pela Compass desde o início**
 * **Vídeo ensinando a <b><a href="https://www.youtube.com/watch?v=CMzOM2VyNLw">Padronizar Issues</a></b>**
 
